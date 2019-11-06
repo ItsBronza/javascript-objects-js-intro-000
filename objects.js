@@ -13,3 +13,5 @@ function removeFromPlaylist(playlist, song){
   delete playlist['LinkinPark']
   return playlist
 }
+
+removeFromPlaylist(playlist, 'LimpBizkit')
