@@ -30,4 +30,4 @@ removeFromPlaylist(playlist,'Taylor')
 
  var sugar = 'sugar'
  delete recipe[sugar]
- recipe 
+ recipe
