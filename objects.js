@@ -1,1 +1,2 @@
-var playlist = {Linkin Park : "Numb"}
+var playlist = {}
+playlist.LinkinPark = "Numb"
