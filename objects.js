@@ -1,6 +1,6 @@
 var playlist = {}
-playlist.Beyonce = 'fear'
-playlist['BTS'] = 'fire'
+playlist.Enya = 'Watermark'
+playlist['Enya'] = 'Amarantine'
 
 
 
