@@ -11,7 +11,7 @@ function updatePlaylist(playlist, artist, song) {
 
 }
 
-updatePlaylist(playlist,'Taylor', 'red')
+updatePlaylist(playlist,'Queen', 'Barcelona')
 console.log(playlist)
 
 
@@ -22,7 +22,7 @@ function removeFromPlaylist(playlist, artist) {
 
 
 }
-removeFromPlaylist(playlist,'Taylor')
+removeFromPlaylist(playlist,'Queen')
 
  var recipe = {flour: '1 cup', eggs: 2, sugar: '4 cups'}
  delete recipe.eggs
