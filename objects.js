@@ -24,10 +24,4 @@ function removeFromPlaylist(playlist, artist) {
 }
 removeFromPlaylist(playlist,'Queen')
 
- var recipe = {flour: '1 cup', eggs: 2, sugar: '4 cups'}
- delete recipe.eggs
- recipe
-
- var sugar = 'sugar'
- delete recipe[sugar]
- recipe
+ 
