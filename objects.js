@@ -2,6 +2,7 @@ var playlist = {}
 playlist.LinkinPark = "Numb"
 playlist['LinkinPark'] = "In The End"
 
-function updatePlaylist(thePlaylist, artistName, songTitle){
-return (thePlaylist, artistName, songTitle);
+function updatePlaylist(playlist, artist, song){
+  playlist[artist] = song
+return playlist
 }
