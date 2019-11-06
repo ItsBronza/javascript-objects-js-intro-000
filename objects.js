@@ -8,6 +8,6 @@ return playlist
 }
 
 function removeFromPlaylist(playlist, song){
-  delete playlist[LinkinPark]
+  delete playlist['LinkinPark']
   return playlist
 }
