@@ -23,5 +23,3 @@ function removeFromPlaylist(playlist, artist) {
 
 }
 removeFromPlaylist(playlist,'Queen')
-
- 
